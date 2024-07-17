@@ -7,7 +7,7 @@ export default function Contact() {
                 <div class="container mx-auto p-6">
                     <h1 class="mb-16 text-gold font-serif text-6xl">Contact Us</h1>
                     <div class="mb-8 w-full h-96 overflow-hidden">
-                        <img class="object-cover object-center w-full h-96" src="/img/showroom.jpg" alt="Showroom" />
+                        <img class="object-cover object-center w-full h-96" src="/car-dealership-demo/img/showroom.jpg" alt="Showroom" />
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                     <p>Sales: <a class="text-gold hover:text-white hover:underline" href="tel:+12131231234">+1 (213) 123-1234</a></p>

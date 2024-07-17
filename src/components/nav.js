@@ -12,7 +12,7 @@ export default function Nav() {
         <nav class="fixed top-0 w-screen bg-black">
             <div class="container mx-auto flex items-center justify-between flex-wrap p-6">
                 <div class="flex items-center flex-shrink-0 text-white mr-6">
-                    <Link href="/"><span class="font-semibold text-xl text-gold tracking-tight"><img class="max-w-32" src="/img/logo.svg" /></span></Link>
+                    <Link href="/"><span class="font-semibold text-xl text-gold tracking-tight"><img class="max-w-32" src="/car-dealership-demo/img/logo.svg" /></span></Link>
                 </div>
                 <div class="block md:hidden">
                     <button onClick={toggleNav} class="flex items-center px-3 py-2 border rounded text-gold border-gold hover:text-white hover:border-white">

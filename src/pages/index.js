@@ -16,7 +16,7 @@ export async function getStaticProps() {
 export default function Index({ cars }) {
     return (
         <Layout>
-            <section class="mb-20 bg-[url('/img/showroom.jpg')] bg-cover bg-center">
+            <section class="mb-20 bg-[url('/car-dealership-demo/img/showroom.jpg')] bg-cover bg-center">
                 <div class="h-screen flex items-center bg-black/70">
                     <div class="container mx-auto p-6">
                         <h1 class="mb-16 text-gold font-serif text-8xl">Lorem Ipsum</h1>
